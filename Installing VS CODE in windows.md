@@ -1,4 +1,4 @@
-<h1> How to Install Visual Studio Code on Window </h1>
+<h1> How to Install Visual Studio Code in Window </h1>
 
 <p>Visual Studio Code is a popular, free, and open-source code editor that can be used for a wide range of programming languages. Here's how you can install it on your Windows machine:<p>
 
